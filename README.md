@@ -7,5 +7,5 @@ Tags yang digunakan antara lain :
 Sytanx yang digunakan antara lain :
 
 #About Me
-Christian Hasudungan Sihotang
+Christian Hasudungan Sihotang<br>
 christian.sihotang23@gmail.com
