@@ -4,7 +4,7 @@
 #Used Tags & Syntaxes<br>
 Tags yang digunakan antara lain : <br>
 <ul>
-    <li> <!-- <div>--></li>
+    <li> <div> </li>
 
 </ul>
 Sytanx yang digunakan antara lain :<br>
